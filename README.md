@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Robo_Friends
+1. Tools Used - Reactjs and Tachyons.
+2. Built a static page to showcase a list of items with search functionality, used reactjs for building the components required and styled them using tachyons.
 ## Available Scripts
 
 In the project directory, you can run:
